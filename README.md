@@ -20,6 +20,8 @@ C 13.12.2022 г. и по настоящее время являюсь студе
 
 Мои ключевые навыки: Python, Django Framework, Git, API, Docker, VS Code, SQL, PostgreSQL, Linux, Работа с базами данных, Nginx, HTML, Bootstrap, Pythonanywhere, Gunicorn, Docker Hub
 
+В настоящее время я открыт для сотрудничества, рассматриваю любые предложения о работе в должности Python-разработчик. Буду благодарен за обратную связь. 
+
 Контакты:
 Телеграм/WhatsApp: @alexrashkin
 +7(911)093-05-39
