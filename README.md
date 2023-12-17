@@ -39,6 +39,7 @@
 r100aa@yandex.ru
 ![Рашкин Александр Александрович_20232ЦППР01403_page-0002](https://github.com/alexrashkin/alexrashkin/assets/121449357/ade5f70d-81c4-437f-9270-dbac06349424)
 ![Рашкин Александр Александрович_20232ЦППР01403_page-0001](https://github.com/alexrashkin/alexrashkin/assets/121449357/2b7bbf7f-d8ef-4120-ad73-5711fb644c50)
+https://drive.google.com/file/d/1sbfWZsCTjalxIgZdBwXRQeuFAuehFExa/view?usp=sharing
 
 
 
