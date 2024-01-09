@@ -45,11 +45,12 @@ Github: git@github.com:alexrashkin/yatube_project.git
 Github: git@github.com:alexrashkin/online_store.git
 
 5. Калькулятор стоимости изготовления сетки-рабицы по заказу предпринимателя
+   
 Адрес сайта: https://t701or.pythonanywhere.com/
 
 GitHub: git@github.com:alexrashkin/setka_calc.git
 
-7. Оптимизация сайта заказчика (писателя)
+6. Оптимизация сайта заказчика (писателя)
 Адрес сайта: https://romansidorkin.ru/
 
 В работе всегда стремлюсь к наилучшему результату, не ограничиваясь только формальными требованиями заказчика (если позволяет время и отсутствуют ограничения со стороны заказчика).
