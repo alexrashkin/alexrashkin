@@ -12,13 +12,15 @@
 
 Некоторые реализованные мной проекты:
 
-1. Разработка решения, которое отчасти автоматизирует процесс сопоставления товаров (создание бэкенда для обработки запросов от фронтенда и интеграции с ML моделью, создание API для взаимодействия с фронтендом) Заказчик - ООО "Просепт"
+1.
+Разработка решения, которое отчасти автоматизирует процесс сопоставления товаров (создание бэкенда для обработки запросов от фронтенда и интеграции с ML моделью, создание API для взаимодействия с фронтендом) Заказчик - ООО "Просепт"
 
 Стэк: Python, Django, DRF, SQL, git, API
 
 GitHub: git@github.com:alexrashkin/prosept_compare_service.git
 
-2. Сайт для публикации кулинарных рецептов.
+2.
+Сайт для публикации кулинарных рецептов.
 
 Стэк: Python, Django, DRF, API, postgresql, nginx, docker, git, Linux, workflow
 
@@ -28,7 +30,8 @@ GitHub: git@github.com:alexrashkin/prosept_compare_service.git
 
 Github: git@github.com:alexrashkin/foodgram-project-react.git
 
-3. Блог о туризме.
+3.
+Блог о туризме.
 
 Стэк: Python, Django, DRF, SQL, git, API, JWT token
 
@@ -36,7 +39,8 @@ Github: git@github.com:alexrashkin/foodgram-project-react.git
 
 Github: git@github.com:alexrashkin/yatube_project.git
 
-4. Интернет-магазин.
+4.
+Интернет-магазин.
 
 Стэк: Python, Django
 
@@ -44,13 +48,15 @@ Github: git@github.com:alexrashkin/yatube_project.git
 
 Github: git@github.com:alexrashkin/online_store.git
 
-5. Калькулятор стоимости изготовления сетки-рабицы по заказу предпринимателя
+5.
+Калькулятор стоимости изготовления сетки-рабицы по заказу предпринимателя
    
 Адрес сайта: https://t701or.pythonanywhere.com/
 
 GitHub: git@github.com:alexrashkin/setka_calc.git
 
-6. Оптимизация сайта заказчика (писателя)
+6.
+Оптимизация сайта заказчика (писателя)
 Адрес сайта: https://romansidorkin.ru/
 
 В работе всегда стремлюсь к наилучшему результату, не ограничиваясь только формальными требованиями заказчика (если позволяет время и отсутствуют ограничения со стороны заказчика).
