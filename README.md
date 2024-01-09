@@ -36,13 +36,9 @@ Github: git@github.com:alexrashkin/foodgram-project-react.git
 
 Github: git@github.com:alexrashkin/yatube_project.git
 
-&#10105; Интернет-магазин.
+&#10105; Оптимизация сайта заказчика (писателя)
 
-Стэк: Python, Django
-
-Цель: создание интернет-магазина по заказу арт-студии
-
-Github: git@github.com:alexrashkin/online_store.git
+Адрес сайта: https://romansidorkin.ru/
 
 &#10106; Калькулятор стоимости изготовления сетки-рабицы по заказу предпринимателя
    
@@ -50,8 +46,13 @@ Github: git@github.com:alexrashkin/online_store.git
 
 GitHub: git@github.com:alexrashkin/setka_calc.git
 
-&#10107; Оптимизация сайта заказчика (писателя)
-Адрес сайта: https://romansidorkin.ru/
+&#10107; Интернет-магазин
+
+Стэк: Python, Django
+
+Цель: создание интернет-магазина по заказу арт-студии
+
+Github: git@github.com:alexrashkin/online_store.git
 
 В одном из проектов был Тимлидом команды, приобрёл бесценный опыт эффективного командного взаимодействия. Под моим руководством команда написала отличное API, которое собирает отзывы пользователей на произведения. Проект сдан до жёсткого дедлайна и с минимальными доработками.
 
