@@ -18,17 +18,30 @@
 
 GitHub: git@github.com:alexrashkin/prosept_compare_service.git
 
-&#10103; Сайт для публикации кулинарных рецептов.
+&#10103; Сайт-портфолио художника (заказчик: частное лицо - профессиональный художник).
+
+Стек: Python, Django, DRF, API, PostgreSQL, Nginx, Docker, Git, Linux.
+
+Создание веб-приложения для публикации художником своих работ.
+Развёртывание на удалённом сервере с использованием CI & CD (Docker и Nginx)
+
+Адрес сайта: https://angelina-art.ru
+
+Github: git@github.com:alexrashkin/Lina_project.git
+
+&#10104; Сайт для публикации кулинарных рецептов.
 
 Стэк: Python, Django, DRF, API, postgresql, nginx, docker, git, Linux, workflow
 
 Цель: создание сайта для публикации рецептов, с возможностью подписываться на автора, добавления рецептов в избранное/список покупок. Рецепты из списка покупок можно скачать, в результате выдается файл с продуктами, которые используются в рецептах. БД наполняется из csv файла с помощью management команды. Использование JWT-токенов для аутентификации.
 
-Проект развёрнут на удалённом сервере с применением практик CI&CD и доступен по адресу: https://foodgram-project.myvnc.com/recipes
+Развёртывание на удалённом сервере с использованием CI & CD (Docker и Nginx)
+
+Адрес сайта: https://foodgram-project.myvnc.com/recipes
 
 Github: git@github.com:alexrashkin/foodgram-project-react.git
 
-&#10104; Блог о туризме.
+&#10105; Блог о туризме.
 
 Стэк: Python, Django, DRF, SQL, git, API, JWT token
 
@@ -38,23 +51,15 @@ Github: git@github.com:alexrashkin/foodgram-project-react.git
 
 Github: git@github.com:alexrashkin/yatube_project.git
 
-&#10105; Оптимизация сайта заказчика (писателя)
+&#10106; Оптимизация сайта заказчика (писателя)
 
 Адрес сайта: https://romansidorkin.ru/
 
-&#10106; Калькулятор стоимости изготовления сетки-рабицы по заказу предпринимателя
+&#10107; Калькулятор стоимости изготовления сетки-рабицы по заказу предпринимателя
    
 Адрес сайта: https://t701or.pythonanywhere.com/
 
 GitHub: git@github.com:alexrashkin/setka_calc.git
-
-&#10107; Интернет-магазин
-
-Стэк: Python, Django
-
-Цель: создание интернет-магазина по заказу арт-студии
-
-Github: git@github.com:alexrashkin/online_store.git
 
 В одном из проектов был Тимлидом команды, приобрёл бесценный опыт эффективного командного взаимодействия. Под моим руководством команда написала отличное API, которое собирает отзывы пользователей на произведения. Проект сдан до жёсткого дедлайна и с минимальными доработками.
 
