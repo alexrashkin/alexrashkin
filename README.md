@@ -14,7 +14,7 @@
 
 &#10102; Разработка решения, которое отчасти автоматизирует процесс сопоставления товаров (создание бэкенда для обработки запросов от фронтенда и интеграции с ML моделью, создание API для взаимодействия с фронтендом) Заказчик - ООО "Просепт"
 
-Стэк: Python, Django, DRF, SQL, git, API
+Стэк: Python, Django, DRF, SQL, Git, API
 
 GitHub: git@github.com:alexrashkin/prosept_compare_service.git
 
@@ -31,7 +31,7 @@ Github: git@github.com:alexrashkin/Lina_project.git
 
 &#10104; Сайт для публикации кулинарных рецептов.
 
-Стэк: Python, Django, DRF, API, postgresql, nginx, docker, git, Linux, workflow
+Стэк: Python, Django, DRF, API, Postgresql, Nginx, Docker, Git, Linux, Workflow
 
 Цель: создание сайта для публикации рецептов, с возможностью подписываться на автора, добавления рецептов в избранное/список покупок. Рецепты из списка покупок можно скачать, в результате выдается файл с продуктами, которые используются в рецептах. БД наполняется из csv файла с помощью management команды. Использование JWT-токенов для аутентификации.
 
@@ -43,7 +43,7 @@ Github: git@github.com:alexrashkin/foodgram-project-react.git
 
 &#10105; Блог о туризме.
 
-Стэк: Python, Django, DRF, SQL, git, API, JWT token
+Стэк: Python, Django, DRF, SQL, Git, API, JWT token
 
 Цель: создание блога о путешествиях и туризме, позволяющего пользователям создать учетную запись, публиковать записи (вести личный дневник), подписываться на любимых авторов и комментировать понравившиеся записи.
 
