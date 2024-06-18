@@ -46,8 +46,6 @@ Github: git@github.com:alexrashkin/foodgram-project-react.git
 Github: git@github.com:alexrashkin/yatube_project.git
 
 &#10106; Калькулятор стоимости изготовления сетки-рабицы по заказу предпринимателя
-   
-Адрес сайта: https://t701or.pythonanywhere.com/
 
 GitHub: git@github.com:alexrashkin/setka_calc.git
 
