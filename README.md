@@ -25,8 +25,6 @@ GitHub: git@github.com:alexrashkin/prosept_compare_service.git
 Создание веб-приложения для публикации художником своих работ.
 Развёртывание на удалённом сервере с использованием CI & CD (Docker и Nginx)
 
-Адрес сайта: https://angelina-art.ru
-
 Github: git@github.com:alexrashkin/Lina_project.git
 
 &#10104; Сайт для публикации кулинарных рецептов.
@@ -37,8 +35,6 @@ Github: git@github.com:alexrashkin/Lina_project.git
 
 Развёртывание на удалённом сервере с использованием CI & CD (Docker и Nginx)
 
-Адрес сайта: https://foodgram-project.myvnc.com/recipes
-
 Github: git@github.com:alexrashkin/foodgram-project-react.git
 
 &#10105; Блог о туризме.
@@ -47,15 +43,9 @@ Github: git@github.com:alexrashkin/foodgram-project-react.git
 
 Цель: создание блога о путешествиях и туризме, позволяющего пользователям создать учетную запись, публиковать записи (вести личный дневник), подписываться на любимых авторов и комментировать понравившиеся записи.
 
-Адрес сайта: https://c393ox.pythonanywhere.com/
-
 Github: git@github.com:alexrashkin/yatube_project.git
 
-&#10106; Оптимизация сайта заказчика (писателя)
-
-Адрес сайта: https://romansidorkin.ru/
-
-&#10107; Калькулятор стоимости изготовления сетки-рабицы по заказу предпринимателя
+&#10106; Калькулятор стоимости изготовления сетки-рабицы по заказу предпринимателя
    
 Адрес сайта: https://t701or.pythonanywhere.com/
 
