@@ -45,9 +45,13 @@ Github: git@github.com:alexrashkin/foodgram-project-react.git
 
 Github: git@github.com:alexrashkin/yatube_project.git
 
+Сайт: https://c393ox.pythonanywhere.com/
+
 &#10106; Калькулятор стоимости изготовления сетки-рабицы по заказу предпринимателя
 
 GitHub: git@github.com:alexrashkin/setka_calc.git
+
+Сайт: https://t701or.pythonanywhere.com/
 
 В одном из проектов был Тимлидом команды, приобрёл бесценный опыт эффективного командного взаимодействия. Под моим руководством команда написала отличное API, которое собирает отзывы пользователей на произведения. Проект сдан даже раньше установленного срока и с минимальными доработками.
 
