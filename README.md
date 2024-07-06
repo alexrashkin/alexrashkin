@@ -37,7 +37,7 @@ Github: git@github.com:alexrashkin/Lina_project.git
 
 Github: git@github.com:alexrashkin/foodgram-project-react.git
 
-&#10105; Блог о туризме.
+&#10105; Блог о туризме "TravelTube".
 
 Стэк: Python, Django, DRF, SQL, Git, API, JWT token
 
