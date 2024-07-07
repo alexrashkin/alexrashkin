@@ -18,7 +18,7 @@
 
 Цель: создание блога о путешествиях и туризме, позволяющего пользователям создать учетную запись, публиковать записи (вести личный дневник), подписываться на любимых авторов и комментировать понравившиеся записи.
 
-Github: git@github.com:alexrashkin/yatube_project.git
+Github: git@github.com:alexrashkin/TravelTube
 
 Сайт: https://c393ox.pythonanywhere.com/
 
