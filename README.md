@@ -31,6 +31,8 @@ Github: git@github.com:alexrashkin/TravelTube
 
 Github: git@github.com:alexrashkin/Lina_project.git
 
+Сайт: https://angelina-art.ru/
+
 &#10104; Сайт для публикации кулинарных рецептов.
 
 Стэк: Python, Django, DRF, API, Postgresql, Nginx, Docker, Git, Linux, Workflow
