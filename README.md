@@ -22,7 +22,7 @@ Github: git@github.com:alexrashkin/TravelTube
 
 Сайт: https://c393ox.pythonanywhere.com/
 
-&#10103; Сайт-портфолио художника (заказчик: частное лицо - профессиональный художник).
+&#10103; Сайт-портфолио художника (заказчик: частное лицо - профессиональный художник)
 
 Стек: Python, Django, DRF, API, PostgreSQL, Nginx, Docker, Git, Linux.
 
@@ -51,7 +51,7 @@ Github: git@github.com:alexrashkin/foodgram-project-react.git
 
 GitHub: git@github.com:alexrashkin/prosept_compare_service.git
 
-&#10106; Калькулятор стоимости изготовления сетки-рабицы по заказу предпринимателя
+&#10106; Калькулятор стоимости изготовления сетки-рабицы (заказчик: частное лицо - индивидуальный предприниматель)
 
 GitHub: git@github.com:alexrashkin/setka_calc.git
 
