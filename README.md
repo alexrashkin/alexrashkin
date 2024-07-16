@@ -43,6 +43,8 @@ Github: git@github.com:alexrashkin/Lina_project.git
 
 Github: git@github.com:alexrashkin/foodgram-project-react.git
 
+Сайт: https://foodgram-project.myvnc.com/recipes
+
 &#10105; Разработка решения, которое отчасти автоматизирует процесс сопоставления товаров (создание бэкенда для обработки запросов от фронтенда и интеграции с ML моделью, создание API для взаимодействия с фронтендом) Заказчик - ООО "Просепт"
 
 Стэк: Python, Django, DRF, SQL, Git, API
