@@ -12,17 +12,7 @@
 
 Некоторые реализованные мной проекты:
 
-&#10102; Блог о туризме "TravelTube".
-
-Стэк: Python, Django, DRF, SQL, Git, API, JWT token
-
-Цель: создание блога о путешествиях и туризме, позволяющего пользователям создать учетную запись, публиковать записи (вести личный дневник), подписываться на любимых авторов и комментировать понравившиеся записи.
-
-Github: git@github.com:alexrashkin/TravelTube
-
-Сайт: https://c393ox.pythonanywhere.com/
-
-&#10103; Сайт-портфолио художника (заказчик: частное лицо - профессиональный художник)
+&#10102; Сайт-портфолио художника (заказчик: частное лицо - профессиональный художник)
 
 Стек: Python, Django, DRF, API, PostgreSQL, Nginx, Docker, Git, Linux.
 
@@ -32,6 +22,16 @@ Github: git@github.com:alexrashkin/TravelTube
 Github: git@github.com:alexrashkin/Lina_project.git
 
 Сайт: https://angelina-art.ru/
+
+&#10103; Блог о туризме "TravelTube".
+
+Стэк: Python, Django, DRF, SQL, Git, API, JWT token
+
+Цель: создание блога о путешествиях и туризме, позволяющего пользователям создать учетную запись, публиковать записи (вести личный дневник), подписываться на любимых авторов и комментировать понравившиеся записи.
+
+Github: git@github.com:alexrashkin/TravelTube
+
+Сайт: https://c393ox.pythonanywhere.com/
 
 &#10104; Сайт для публикации кулинарных рецептов.
 
