@@ -13,9 +13,13 @@
 Реализованные проекты:
 
 &#10102; Умный водитель (Clever Driver)
+
 Стек: Python, Flask, python-telegram-bot 20.x, SQLite, httpx/requests, YooKassa, Sentry, Google Maps, CSP/CSRF, rate limiting
+
 Назначение: для автоматического отслеживания геолокации водителя, автоматических уведомлений о прибытии и выезде водителя, контроля местоположения и статуса водителя. У сервиса собственный веб-интерфейс и Telegram-бот для отправки и получения уведомлений
+
 GitHub (SSH): git@github.com:alexrashkin/clever-driver-bot.git
+
 Сайт: https://cleverdriver.ru, О сервисе: https://cleverdriver.ru/about
 
 &#10103; Сайт-портфолио художника (заказчик: частное лицо - профессиональный художник)
