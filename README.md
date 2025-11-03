@@ -12,7 +12,7 @@
 
 Реализованные проекты:
 
-&#10102; Умный водитель (Clever Driver)
+&#10102; DriveSmartly
 
 Стек: Python, Flask, python-telegram-bot 20.x, SQLite, httpx/requests, YooKassa, Sentry, Google Maps, CSP/CSRF, rate limiting
 
@@ -22,7 +22,7 @@
 
 GitHub (SSH): git@github.com:alexrashkin/clever-driver-bot.git
 
-Сайт: https://cleverdriver.ru, О сервисе: https://cleverdriver.ru/about
+Сайт: https://drive-smartly.ru/, О сервисе: https://drive-smartly.ru/about
 
 &#10103; Сайт-портфолио художника (заказчик: частное лицо - профессиональный художник)
 
