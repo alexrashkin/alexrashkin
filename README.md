@@ -1,6 +1,6 @@
 Здравствуйте, спасибо, что заглянули ко мне на гитхаб &#128587;
 
-Немного расскажу о себе. Меня зовут Александр, я Python-разработчик, пишу backend на Python, а также дополнительно изучаю вёрстку (HTML + CSS) и Javascript.
+Немного расскажу о себе. Меня зовут Александр, Python-разработчик.
 
 Мои ключевые навыки: Python, Django Framework, Git, API, Docker, VS Code, SQL, PostgreSQL, Linux, Работа с базами данных, Nginx, HTML, Bootstrap, Pythonanywhere, Gunicorn, Docker Hub
 
