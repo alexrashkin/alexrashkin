@@ -1,6 +1,6 @@
 Здравствуйте, спасибо, что заглянули ко мне на гитхаб &#128587;
 
-Немного расскажу о себе. Меня зовут Александр, Python-разработчик, основатель и главный разработчик сервиса для знакомств "Matcha Dating".
+Немного расскажу о себе. Меня зовут Александр, Python-разработчик, основатель и разработчик сервиса для знакомств "Matcha Dating".
 
 Мои ключевые навыки: Python, Django Framework, Git, API, Docker, VS Code, SQL, PostgreSQL, Linux, Nginx, HTML, Bootstrap, Pythonanywhere, Gunicorn, Docker Hub и др.
 
@@ -12,9 +12,11 @@
 
 &#10102; Matcha Dating
 
+Стек: мобильный клиент — Flutter (Dart); бэкенд — FastAPI (Python 3.11) с PostgreSQL, Redis и OpenAI.
 
+Назначение: Cервис предназначен для знакомств с использованием AI-двойников и оценки совместимости на основе данных анкеты и онбординга.
 
-https://matcha-dating.com/
+Сайт: https://matcha-dating.com/, О сервисе: https://matcha-dating.com/legal/faq/
 
 &#10103; DriveSmartly
 
