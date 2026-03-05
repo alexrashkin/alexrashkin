@@ -18,6 +18,8 @@
 
 Сайт: https://matcha-dating.com/, О сервисе: https://matcha-dating.com/legal/faq/
 
+Не могу опубликовать ссылку на GitHub, так как проект является коммерческим.
+
 &#10103; DriveSmartly
 
 Стек: Python, Flask, python-telegram-bot 20.x, SQLite, httpx/requests, YooKassa, Sentry, Google Maps, CSP/CSRF, rate limiting
