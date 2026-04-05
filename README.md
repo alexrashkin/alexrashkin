@@ -1,6 +1,6 @@
 Здравствуйте, спасибо, что заглянули ко мне на гитхаб &#128587;
 
-Немного расскажу о себе. Меня зовут Александр, Python-разработчик, основатель и разработчик сервиса для знакомств "Matcha Dating", а так же сервиса "DriveSmartly".
+Немного расскажу о себе. Меня зовут Александр, Python-разработчик, основатель и разработчик сервиса для знакомств "Matcha Dating".
 
 Мои ключевые навыки: Python, Django Framework, Git, API, Docker, VS Code, SQL, PostgreSQL, Linux, Nginx, HTML, Bootstrap, Pythonanywhere, Gunicorn, Docker Hub и др.
 
@@ -12,7 +12,7 @@
 
 &#10102; Matcha Dating
 
-Стек: мобильный клиент — Flutter (Dart); бэкенд — FastAPI (Python 3.11) с PostgreSQL, Redis и OpenAI.
+Стек: мобильный клиент — Flutter (Dart); бэкенд — FastAPI (Python 3.11) с PostgreSQL, Redis, OpenAI, YooKassa
 
 Назначение: Cервис предназначен для знакомств с использованием AI-двойников и оценки совместимости на основе данных анкеты и онбординга.
 
@@ -22,11 +22,9 @@
 
 &#10103; DriveSmartly
 
-Стек: Python, Flask, python-telegram-bot 20.x, SQLite, httpx/requests, YooKassa, Sentry, Google Maps, CSP/CSRF, rate limiting
+Стек: Python, Flask, python-telegram-bot 20.x, SQLite, httpx/requests, YooKassa, Sentry, Google Maps
 
-Назначение: для автоматического отслеживания геолокации водителя, автоматических уведомлений о прибытии и выезде водителя, контроля местоположения и статуса водителя. У сервиса собственный веб-интерфейс и Telegram-бот для отправки и получения уведомлений
-
-Сайт: https://drive-smartly.ru/, О сервисе: https://drive-smartly.ru/about
+Назначение: для автоматического отслеживания геолокации водителя, автоматических уведомлений о прибытии и выезде водителя, контроля местоположения и статуса водителя. У сервиса собственный веб-интерфейс и Telegram-бот для отправки и получения уведомлений.
 
 Не могу опубликовать ссылку на GitHub, так как это собственный коммерческий проект.
 
